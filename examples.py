@@ -9,7 +9,7 @@
 x = int(input("Please enter an integer: "))
 b = 200
 if b > x:
-  print("b is greater than x")
+    print("b is greater than x")
 elif b == x:
     print('they are equal')
 else:
