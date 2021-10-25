@@ -9,3 +9,4 @@ for i in range(10):
 # del 1 al 10 pero de dos en dos
 for i in range(1, 10, 2):
   print('Imprime del 0 al 9; ', i)
+

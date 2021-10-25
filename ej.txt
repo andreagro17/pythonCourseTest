@@ -1,0 +1,7 @@
+## mostrar dependencia de una app Python
+- la manera mas convencional de mostrar las dependencias de la app es com el comando
+pip freeze > requirements.txt
+
+. otra biblioteca utilizada es pipreqs /home/proyecto
+
+setup.py - >
