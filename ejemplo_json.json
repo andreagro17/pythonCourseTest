@@ -1,0 +1,16 @@
+{
+  "Nombre": "Juan",
+  "Apellidos": "Perez López",
+  "Genero": "masculino",
+  "Direccion": {
+      "Calle": "Gran Via, 55",
+      "Ciudad": "Barcelona",
+      "Codigo Postal": "08000"
+  },
+  "Telefonos": [
+      {
+          "tipo": "casa",
+          "numero": "55555555"
+      }
+  ]
+}
